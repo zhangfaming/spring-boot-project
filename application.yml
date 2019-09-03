@@ -1,0 +1,4 @@
+spring:
+name: local
+server:
+  port: 8081
