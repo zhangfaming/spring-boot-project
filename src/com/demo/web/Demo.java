@@ -1,6 +1,6 @@
-package com.web;
+package com.demo.web;
 
-import com.model.City;
+import com.demo.model.City;
 import org.springframework.stereotype.Component;
 
 import javax.ws.rs.GET;

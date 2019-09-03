@@ -1,4 +1,4 @@
-package com.model;
+package com.demo.model;
 
 public class City {
 
