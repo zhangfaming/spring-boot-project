@@ -11,6 +11,6 @@ public class JerseyConfig extends ResourceConfig {
         //register(Demo.class);
 
         //注册包的方式
-        packages("com.web");
+        packages("com.demo.web");
     }
 }
